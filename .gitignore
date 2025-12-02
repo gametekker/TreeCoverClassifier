@@ -1,0 +1,5 @@
+covtype.data.gz
+preprocessed_test.csv.gz
+preprocessed_train.csv.gz
+venv/
+.DS_Store
